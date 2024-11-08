@@ -2,7 +2,6 @@
 - 👀 I’m interested in games and programming
 - 🌱 I’m currently learning godot and rust
 - 💞️ I’m looking to collaborate on ... nothing currently
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
