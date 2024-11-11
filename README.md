@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dawn395
 - 👀 I’m interested in games and programming
 - 🌱 I’m currently learning godot and rust
-- 💞️ I’m looking to collaborate on ... nothing currently
+- 💞️ I’m looking to collaborate on ... stuff
 - ⚡ Fun fact: ...
 
 <!---
